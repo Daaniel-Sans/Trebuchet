@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # PROYECTO WOLOLO
 ## Conviértete tu catapulta en una maravilla
 
